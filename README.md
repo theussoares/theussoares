@@ -1,5 +1,5 @@
 # Olá! Eu sou o Matheus 👋
-Sou desenvolvedor Front-End! 🚀
+Sou desenvolvedor fullstack com foco em Front-End! 🚀
 
 ### 📊 Tecnologias mais utilizadas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
